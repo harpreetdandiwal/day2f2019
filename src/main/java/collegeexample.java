@@ -23,6 +23,9 @@ public class collegeexample {
 s1.calulatetotal();
 s1.calculatepercentage();
 s1.generateresults();
+System.out.println(s1.total);
+        System.out.println(s1.percentage);
+
 
     }
 }

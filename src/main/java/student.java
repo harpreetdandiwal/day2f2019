@@ -42,7 +42,7 @@ public class student {
     }
     public void calculatepercentage()
     {
-        percentage =total/5*100;
+        percentage =total/5;
     }
     public void generateresults()
     {
